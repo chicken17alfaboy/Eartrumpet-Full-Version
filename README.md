@@ -237,4 +237,4 @@ This repository serves as the official landing page for EarTrumpet. The software
 **Get the most recent version of EarTrumpet today!**
 
 ---
-**Last updated:** 2026-09-09 17:41:52 UTC
+**Last updated:** 2026-09-09 20:43:03 UTC
